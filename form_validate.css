@@ -1,0 +1,46 @@
+body
+{
+    background-color: darkslateblue;
+}
+
+.input {
+
+
+    background: white;
+    background-color: aqua;
+    margin: 100px;
+    width: 550px;
+    margin-left: 450px;
+    justify-content: center;
+    padding:50px;
+    border-radius: 50px;
+}
+
+.field {
+    margin-bottom:20px ;
+    margin-left: 10px;
+}
+label
+{
+    display:inline-block;
+    width: 250px;
+}
+.send
+{
+    text-align: center;
+    margin-left: 250px;
+    cursor: pointer;
+}
+.message
+{
+    text-align: center;
+    color: darkred;
+}
+.hob
+{
+    margin-left: 250px;
+}
+.marks
+{
+    margin-left: 250px;
+}
